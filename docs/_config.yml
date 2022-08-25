@@ -22,7 +22,6 @@ title: Shawn's ML Lab
 email: sidbon.s@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Articles on machine learning, deep learning and biostatisics concepts
-baseurl: /docs/
 url: https://shawn-lab-ml.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shawn-lab-ml
 
